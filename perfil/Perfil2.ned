@@ -24,24 +24,24 @@ network PerfilComposto
         }
         periodo1: SegundoPeriodo {
             @display("p=146,81;i=block/network");
-            capacidadeTurma = 100;                       //capacidade maxima da turma
-            probReprovacaoAluno = 50;                   //porcentagem da probablidade de um aluno reprovar o periodo
+            capacidadeTurma = 60;                       //capacidade maxima da turma
+            probReprovacaoAluno = 30;                   //porcentagem da probablidade de um aluno reprovar o periodo
             probCancelamentoDisciplina = 20;            //porcentagem da probabilidade de um evadir. Esta cancelamento, mas eh evasao
             probRetornoCancelamento = 0;
 
         }
         periodo2: SegundoPeriodo {
             @display("p=241,81;i=block/network");
-            capacidadeTurma = 100;                       //capacidade maxima da turma
-            probReprovacaoAluno = 50;                   //porcentagem da probablidade de um aluno reprovar o periodo
+            capacidadeTurma = 60;                       //capacidade maxima da turma
+            probReprovacaoAluno = 30;                   //porcentagem da probablidade de um aluno reprovar o periodo
             probCancelamentoDisciplina = 20;            //porcentagem da probabilidade de um evadir. Esta cancelamento, mas eh evasao
             probRetornoCancelamento = 0;
 
         }
         periodo3: SegundoPeriodo {
             @display("p=343,81;i=block/network");
-            capacidadeTurma = 100;                       //capacidade maxima da turma
-            probReprovacaoAluno = 50;                   //porcentagem da probablidade de um aluno reprovar o periodo
+            capacidadeTurma = 60;                       //capacidade maxima da turma
+            probReprovacaoAluno = 30;                   //porcentagem da probablidade de um aluno reprovar o periodo
             probCancelamentoDisciplina = 20;            //porcentagem da probabilidade de um evadir. Esta cancelamento, mas eh evasao
             probRetornoCancelamento = 0;
 
